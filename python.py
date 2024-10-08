@@ -3,6 +3,6 @@ y=20
 
 for i in range (i,y):
     print(i+y)
-    i=i+1
+    i=i+1-1
 
-#the biggest changes are here 
+#the b    iggest  changes are here  
